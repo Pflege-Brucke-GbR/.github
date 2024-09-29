@@ -1,20 +1,17 @@
 
-![test](https://github.com/user-attachments/assets/f8f6a195-11ea-4e40-b529-9160c5f8b45c)
-# Pflegebrücke GbR - Empowering Indonesian Nurses for a Career in Germany 🌍
+![test](https://github.com/user-attachments/assets/658bfac5-d08f-4407-86ea-845786f63be0)
 
+# Pflegebrücke GbR - Empowering Indonesian Nurses for a Career in Germany 🌍
 
 **Pflegebrücke GbR** is a German company dedicated to facilitating the recognition and integration of Indonesian nursing professionals into the German healthcare system. Established in 2023, we bridge the gap between international talent and the growing demand for skilled healthcare professionals in Germany.
 
 ## 🏥 Mission
-
 Our mission is to provide comprehensive support to Indonesian nurses aspiring to build a professional career in Germany. From preparing in Indonesia to integrating into the German healthcare system, we offer consultation, documentation assistance, language training, and job placement.
 
 ## 👁️ Vision
-
 We aim to be a leading and trusted partner for Indonesian nurses by offering the latest information, training, and resources. We empower nurses to thrive in their careers, fully integrated into the German healthcare environment.
 
 ## 📋 Services
-
 Pflegebrücke GbR offers a range of services designed to support nurses throughout their journey:
 
 - **🧑‍🏫 Consultation & Guidance**: Expert guidance on the Anerkennung (recognition of foreign qualifications) process.
@@ -47,7 +44,7 @@ Interested applicants can apply via our official website. The process includes:
 For more information, or to start your journey towards a nursing career in Germany, reach out to us:
 
 - 📞 **Phone**: +49 8121 2237960
-- ✉️ **Email**: pflegebruecke_gbr@t-online.de
+- ✉️ **Email**: pflegebruecke.gbr@gmail.com
 - 🏠 **Address**: Erdinger Straße 15, 85570 Ottenhofen, Germany
 - 🌐 **Website**: [pflegebruecke-gbr.de](https://pflegebruecke-gbr.de)
 
